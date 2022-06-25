@@ -1,0 +1,5 @@
+LIBRARY BarcodeDrawPlugin
+EXPORTS
+	DllMain				@1
+	GetDrawObject		@2
+	ReleaseDrawObject	@3

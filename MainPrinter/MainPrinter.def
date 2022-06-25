@@ -1,0 +1,6 @@
+LIBRARY LanxumPrinter
+EXPORTS
+	DllMain				@1
+	DrvEnableDriver		@2
+	DrvDisableDriver	@3
+	DrvQueryDriverInfo	@4
